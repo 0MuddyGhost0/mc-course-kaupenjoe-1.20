@@ -1,0 +1,11 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "mccourse:block/end_stone",
+    "up": "mccourse:block/end_grass_top",
+    "north": "mccourse:block/end_grass",
+    "east": "mccourse:block/end_grass",
+    "south": "mccourse:block/end_grass",
+    "west": "mccourse:block/end_grass"
+  }
+}
