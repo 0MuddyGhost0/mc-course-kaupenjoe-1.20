@@ -1,6 +1,7 @@
 {
   "parent": "block/cube",
   "textures": {
+    "particle": "mccourse:block/end_grass_top",
     "down": "mccourse:block/end_stone",
     "up": "mccourse:block/end_grass_top",
     "north": "mccourse:block/end_grass",

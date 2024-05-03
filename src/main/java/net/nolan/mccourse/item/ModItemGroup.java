@@ -18,7 +18,9 @@ public class ModItemGroup {
             FabricItemGroup.builder().displayName(Text.translatable("itemgroup.Endmatica"))
                     .icon(() -> new ItemStack(ModBlocks.END_PLASM_GRASS)).entries((displayContext, entries) -> {
 
+                        entries.add(ModItems.RAW_ENDERITE);
                         entries.add(ModItems.ENDERITE);
+                        entries.add(ModItems.ENDERITE_SWORD);
 
                         entries.add(ModBlocks.END_PLASM_GRASS);
                         entries.add(ModBlocks.ENDERITE_ORE);

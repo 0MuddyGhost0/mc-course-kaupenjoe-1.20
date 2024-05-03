@@ -1,6 +1,8 @@
 {
   "item.mccourse.enderite": "Enderite",
+  "item.mccourse.raw_enderite": "Raw Enderite",
   "block.mccourse.end_plasm_grass": "Mossy Endstone",
   "block.mccourse.enderite_ore": "Enderite Ore",
+  "item.mccourse.enderite_sword": "Enderite Sword",
   "itemgroup.Endmatica": "Endmatica"
 }
